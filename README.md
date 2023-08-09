@@ -16,12 +16,6 @@ A simple React Todo App that allows you to manage your tasks in different catego
 ## Screenshot
 ![Project Demo](https://github.com/parikshitgurjar/myReactTodo_iNeuron/raw/master/src/images/Project_demo.png)
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/parikshitgurjar/myReactTodo_iNeuron.git`
-2. Navigate to the project directory: `cd myReactTodo_iNeuron`
-3. Install dependencies: `npm install`
-4. Run the development server: `npm start`
 
 ## Technologies Used
 
