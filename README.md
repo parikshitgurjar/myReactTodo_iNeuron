@@ -1,4 +1,4 @@
-# React Todo App with Local Storage
+# Parikshit Gurjar's React Todo App with Local Storage
 
 ### Live Demo
 
