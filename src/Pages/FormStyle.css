@@ -1,0 +1,108 @@
+.parent_container
+{
+    width:300px;
+    box-sizing: border-box;
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 5px;
+
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    
+}
+
+.child_container
+{
+    width:280px;
+    background-color: aliceblue;
+
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin: 5px;
+
+    position:relative;
+    
+}
+
+
+
+/* ==========CLOSE ICON==========CLOSE ICON============ */
+/* ==========CLOSE ICON==========CLOSE ICON============ */
+.close_icon
+{
+    position: absolute;
+    top: 10px; /* Adjust this value to position the icon vertically */
+    right: 10px; /* Adjust this value to position the icon horizontally */
+    visibility: hidden; /* Hide the icon by default */
+}
+.child_container:hover .close_icon {
+    visibility: visible; /* Show the icon on hover */
+    cursor:pointer;
+  }
+
+.sectionA
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:10px ;
+
+    padding:5px;
+    border-bottom: 1px solid gray;
+}
+.sectionA input
+{
+    width:100px;
+}
+
+.sectionB
+{
+    padding:5px;
+}
+
+.description_class
+{
+    width:250px;
+    height:auto;
+}
+
+.sectionB textarea {
+    width: 250px; /* Adjust this value as needed */
+    min-height: 40px; /* Set a minimum height for the textarea */
+     /* Disable manual resizing by the user */
+    resize: none;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+  }
+/* ------------------- *//* ------------------- *//* ------------------- */
+/* ------------------- *//* ------------------- *//* ------------------- */
+.addCard_button
+{
+    background-color: rgb(41, 117, 41);
+    color: white;
+    padding: 5px;
+}
+.cancel_button
+{
+    background-color: rgb(34, 36, 34);
+    color: white;
+    padding: 5px;
+}
+
+.clickToAddCard
+{
+    background: none;
+    border:none;
+    color:white;
+    width:fit-content;
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.clickToAddCard:hover
+{
+    border-bottom: 2px solid white;
+    cursor: pointer;
+}
