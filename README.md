@@ -16,7 +16,16 @@ A simple React Todo App that allows you to manage your tasks in different catego
 ## Screenshot
 ![Project Demo](https://github.com/parikshitgurjar/myReactTodo_iNeuron/raw/master/src/images/Project_demo.png)
 
+## Workflow and Execution
 
+1. Upon visiting the app, you'll see tasks organized into different categories: Todo, In Progress, Backlog, Completed.
+2. To add a new task, click on "Click to add Card" button under the respective category.
+3. Fill in the task details: Title, Label, and Description. Click "Add Card" to add the task.
+4. Existing tasks are displayed with options to edit or delete. Hover over a task to see the delete icon.
+5. To update a task, simply modify the input fields and press Enter.
+6. To delete a task, click on the delete icon when hovering over the task.
+7. The tasks are stored in local storage, ensuring data persistence even after refreshing the page.
+8. 
 ## Technologies Used
 
 - React
