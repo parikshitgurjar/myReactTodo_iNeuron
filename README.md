@@ -25,7 +25,7 @@ A simple React Todo App that allows you to manage your tasks in different catego
 5. To update a task, simply modify the input fields and press Enter.
 6. To delete a task, click on the delete icon when hovering over the task.
 7. The tasks are stored in local storage, ensuring data persistence even after refreshing the page.
-8. 
+   
 ## Technologies Used
 
 - React
