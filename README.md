@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Demo : 
+![Project Demo](https://github.com/parikshitgurjar/myReactTodo_iNeuron/raw/master/src/images/Project_demo.png)
 
 In the project directory, you can run:
 
