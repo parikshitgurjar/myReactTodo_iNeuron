@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myReactTodo_iNeuron/static/css/main.654ba82b.css",
+    "main.js": "/myReactTodo_iNeuron/static/js/main.e3c1c97c.js",
+    "static/js/787.2e65f44e.chunk.js": "/myReactTodo_iNeuron/static/js/787.2e65f44e.chunk.js",
+    "index.html": "/myReactTodo_iNeuron/index.html",
+    "main.654ba82b.css.map": "/myReactTodo_iNeuron/static/css/main.654ba82b.css.map",
+    "main.e3c1c97c.js.map": "/myReactTodo_iNeuron/static/js/main.e3c1c97c.js.map",
+    "787.2e65f44e.chunk.js.map": "/myReactTodo_iNeuron/static/js/787.2e65f44e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654ba82b.css",
+    "static/js/main.e3c1c97c.js"
+  ]
+}
